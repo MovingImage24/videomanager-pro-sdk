@@ -1,3 +1,8 @@
+### This library is deprecated and not maintaining anymore, use this one please: https://github.com/MovingImage24/VMProApiClient
+### Or if you need a Symfony bundle, use https://github.com/MovingImage24/VMProApiBundle
+
+
+
 # VideoManager Pro SDK
 
 [![Build Status](https://travis-ci.org/MovingImage24/videomanager-pro-sdk.svg?branch=master)](https://travis-ci.org/MovingImage24/videomanager-pro-sdk)
